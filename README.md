@@ -1,2 +1,1 @@
 # widget-cotacoes
-cotacoes cepea
